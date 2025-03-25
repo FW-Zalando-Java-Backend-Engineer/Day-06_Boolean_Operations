@@ -175,7 +175,8 @@ String grade = (score >= 90) ? "A" :
 ## **📚 Additional Resources**
 - **[Java Logical Operators (Oracle)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html)**  
 - **[Java Ternary Operator (W3Schools)](https://www.w3schools.com/java/java_conditions.asp)**  
-- [Video Lesson Recording](_will be added later_)  
+- [Video Lesson Recording](https://us06web.zoom.us/rec/share/OwFOYRz3viCRNvw1N71aX8go1yTAvL29ppGRWw6OhbVpNIcgBZAOjiON8_h291A7.zVodS6ufinDjz6Co)
+- [Live Code Examples](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-06_Boolean_Operations/tree/main/Day_6)  
 
 ---
 
